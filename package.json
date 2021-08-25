@@ -1,6 +1,6 @@
 {
   "name": "shelljs-plugin-ssh",
-  "version": "1.2.2",
+  "version": "1.2.2_fix",
   "description": "A ssh plugin for shelljs",
   "main": "index.js",
   "repository": {
@@ -24,7 +24,7 @@
     "eslint-plugin-import": "^1.14.0"
   },
   "peerDependencies": {
-    "shelljs": "^0.7.4"
+    "shelljs": "0.8.x"
   },
   "dependencies": {
     "inquirer": "^1.1.3",
